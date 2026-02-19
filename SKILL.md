@@ -3,7 +3,7 @@ name: dip-analysis
 description: Determine whether to persist or quit a venture, project, or skill based on Seth Godin's strategic quitting framework from "The Dip.
 license: MIT
 metadata:
-  version: 1.0.3835
+  version: 1.0.3836
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
